@@ -1,7 +1,6 @@
-# Explore Appliation : an alternate file explorer for FTP or SFTP based on ajax technology
+# ftp-alternative : an alternate file explorer for FTP or SFTP based on ajax technology
 	
-	Authors: 
-			Amir Reza Rahbaran, Esfahan, Iran <amirrezarahbaran@gmail.com>
+	Author:	Amir Reza Rahbaran, Esfahan, Iran <amirrezarahbaran@gmail.com>
  
     Version:  2.0.0  (your constructive criticism is appreciated, please see our
     project page on http://sourceforge.net/projects/---
